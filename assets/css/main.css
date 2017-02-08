@@ -1,11 +1,9 @@
-body {
-	background-image: url("../images/bPage.png");
+body { background-image: url("../images/bPage.png"); }
 
-}
 /*------------------------------------
 Head
 -------------------------------------*/
-#myName {
+#my-name {
 	font-size: 40px;
 	padding: 0;
 	margin: 0;
@@ -29,7 +27,7 @@ Body
 .img-thumbnail { margin: 0 10px 0 0; }
 
 
-.topBottomSpace {
+.top-bottom-space {
 	margin-top: 20px;
 	margin-bottom: 60px;
 }
