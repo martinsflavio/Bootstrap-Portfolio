@@ -32,6 +32,12 @@ Body
 	margin-bottom: 60px;
 }
 
+#connect-img {
+	padding: 5px;
+}
+#connect-img:hover { 
+	background-color: #ccc;
+}
 
 /*------------------------------------
 Footer
